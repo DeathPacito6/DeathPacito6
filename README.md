@@ -1,5 +1,6 @@
 - Hi, I’m @DeathPacito6
-- I like to code in Python 3 and I am currently learning JavaScript
+- I like to code in Python and in Javascript
+- I would like to learn C# properly or maybe C++
 - You can reach me on discord at DeathPacito6#6666
 
 <!---
